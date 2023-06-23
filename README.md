@@ -7,5 +7,5 @@ Para configurar & executar o aplicativo web localmente, você só precisa:
 1. Clonar este repositório;
 2. `npm install`
 3. `npm run dev`
-4. Open a browser and navigate to `http://localhost:3000`
+4. Abra em seu navegador `http://localhost:3000`
 
